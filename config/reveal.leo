@@ -28,6 +28,7 @@
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
+<v t="leo.20210319005213.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
@@ -208,7 +209,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section&gt;
    &lt;section&gt;
-            &lt;h1&gt; 最終成果&lt;/h1&gt;
+            &lt;h1&gt; 最終版&lt;/h1&gt;
             &lt;p&gt;&lt;img alt="" height="236" src="./../images/Inventor_RYiNecteXA.png" width="420"/&gt;&lt;/p&gt;
     &lt;/section&gt;
 
@@ -230,12 +231,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171312.1">   &lt;section&gt;
             &lt;h10&gt; 第二版-零件圖+組合圖&lt;/h10&gt;
             &lt;p&gt;&lt;img alt="" height="177" src="./../images/TjGJLnqzaN.png" width="420"/&gt;&lt;/p&gt;
-            &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/xPAWiwpysRA" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
-           &lt;h10&gt; 模擬之後發現有些零件會噴掉，所以把零件和其尺寸稍作調整。&lt;/h10&gt;
-   &lt;/section&gt;</t>
+            &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+   &lt;/section&gt;
+</t>
 <t tx="leo.20200818171344.1">&lt;section&gt;
-            &lt;h8&gt;最終版&lt;/h8&gt;
-            &lt;p&gt;&lt;img alt="" height="236" src="./../images/Inventor_RYiNecteXA.png" width="420"/&gt;&lt;/p&gt;
+            &lt;h5&gt;最終版模擬影片&lt;/h5&gt;
             &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Ngsruy_0HPQ" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -257,5 +257,10 @@ vertical: body pane on the botton</t>
             &lt;h1&gt;END&lt;/h1&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210319005213.1"> &lt;section&gt;
+             &lt;h10&gt; 模擬之後發現有些零件會噴掉，所以把零件和其尺寸稍作調整。&lt;/h10&gt;
+             &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/xPAWiwpysRA" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+   &lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
