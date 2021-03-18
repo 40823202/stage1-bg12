@@ -34,7 +34,6 @@
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194812.1"><vh>slide 13</vh></v>
-<v t="leo.20210319013754.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -215,11 +214,10 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171215.1"> &lt;section&gt;
+<t tx="leo.20200818171215.1">    &lt;section&gt;
             &lt;h6&gt;第一版-零件圖和組合圖&lt;/h6&gt;
            &lt;p&gt;&lt;img alt="" height="196" src="./../images/pbFyQkx56r.png" width="410"/&gt;&lt;/p&gt;
            &lt;p&gt;&lt;img alt="" height="230" src="./../images/SLDWORKS_bRHU87ipVb.png" width="410"/&gt;&lt;/p&gt;
-           &lt;p&gt;&lt;img alt="" height="231" src="./../images/SLDWORKS_OEnv3Dpcwc.png" width="410"/&gt;&lt;/p&gt;
    &lt;/section&gt;
 
 </t>
@@ -236,7 +234,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171344.1">&lt;section&gt;
             &lt;h10&gt;最終版模擬影片&lt;/h10&gt;
-            &lt;p&gt;&lt;img alt="" height="281" src="./../images/ApplicationFrameHost_vDqiiOPTGG.png" width="500"/&gt;&lt;/p&gt;
             &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Ngsruy_0HPQ" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -248,9 +245,9 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818194721.1">&lt;section&gt;
-            &lt;h1&gt;心得&lt;/h1&gt;
-            &lt;h10&gt;40823202:透過這一次的協同設計，讓我知道協同的重要性，在這四週內，學到機構上面尺寸的設計，小組倉儲協同要如何同步，熟悉程式模擬器，在模擬器上我花了較多的時間，由於自己的英文能力不足，和不適應介面的使用，在組員和較強的同學幫忙和討論下，順利的完成這一次專題的模擬，雖然在做的過程中很累，但自己也學到了不少東西。&lt;/h10&gt;
-            &lt;h10&gt;40823203:這一次協同設計花了蠻多時間的，可能因為只有兩個人的關係，再加上對程式的不熟悉，所以花的時間比上學期分組時間多。但經過這次協同經驗自己嘗試作的部分比較多，而學習到也很多，希望可以應用到以後4人分組和8人分組之上。&lt;/h10&gt;
+            &lt;h5&gt;心得&lt;/h5&gt;
+            &lt;h15&gt;40823202:透過這一次的協同設計，讓我知道協同的重要性，在這四週內，學到機構上面尺寸的設計，小組倉儲協同要如何同步，熟悉程式模擬器，在模擬器上我花了較多的時間，由於自己的英文能力不足，和不適應介面的使用，在組員和較強的同學幫忙和討論下，順利的完成這一次專題的模擬，雖然在做的過程中很累，但自己也學到了不少東西。&lt;/h15&gt;
+            &lt;h15&gt;40823203:這一次協同設計花了蠻多時間的，可能因為只有兩個人的關係，再加上對程式的不熟悉，所以花的時間比上學期分組時間多。但經過這次協同經驗自己嘗試作的部分比較多，而學習到也很多，希望可以應用到以後4人分組和8人分組之上。&lt;/h15&gt;
 &lt;/section&gt;
             
 
@@ -264,6 +261,5 @@ vertical: body pane on the botton</t>
              &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/xPAWiwpysRA" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210319013754.1"></t>
 </tnodes>
 </leo_file>
