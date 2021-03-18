@@ -271,27 +271,28 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818171412.1">   &lt;section&gt;
    &lt;h2&gt;PDF檔&lt;/h2&gt;
+    &lt;/section&gt;
  
 
 </t>
 <t tx="leo.20200818194721.1">&lt;section&gt;
    &lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
-            &lt;h2&gt;40823202&lt;/h2&gt;
+            &lt;h5&gt;40823202&lt;/h5&gt;
    &lt;/section&gt;
             
 
 </t>
 <t tx="leo.20200818194751.1">    &lt;section&gt;
             &lt;h2&gt;心得&lt;/h2&gt;
-            &lt;h2&gt;40823203&lt;/h2&gt;
+            &lt;h5&gt;40823203&lt;/h5&gt;
    &lt;/section&gt;
             
 
 </t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
-    END
-&lt;/section&gt;
+<t tx="leo.20200818194812.1">   &lt;section&gt;
+            &lt;h1&gt;END&lt;/h1&gt;
+   &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
