@@ -201,7 +201,7 @@ vertical: body pane on the botton</t>
             &lt;h5&gt; 在系館7樓垃圾桶有時候會看到沒壓扁的鋁罐很佔垃圾桶的空間，所以我們設計此機構希望可以減少此類麻煩。&lt;h5&gt;
    &lt;/section&gt;</t>
 <t tx="leo.20200818171010.1">   &lt;section&gt;
-            &lt;h1&gt;參考影片&lt;/h1&gt;
+            &lt;h5&gt;參考影片&lt;/h5&gt;
            &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/jw6UsSoz3cQ" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
            &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ESVuqMCXhUo" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;
@@ -214,49 +214,48 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818171215.1"> &lt;section&gt;
-            &lt;h1&gt;第一版-零件圖&lt;/h1&gt;
+            &lt;h6&gt;第一版-零件圖&lt;/h6&gt;
            &lt;p&gt;&lt;img alt="" height="196" src="./../images/pbFyQkx56r.png" width="410"/&gt;&lt;/p&gt;
-           &lt;h2&gt; 第一版-組合圖&lt;/h2&gt;
+           &lt;h6&gt; 第一版-組合圖&lt;/h6&gt;
            &lt;p&gt;&lt;img alt="" height="230" src="./../images/SLDWORKS_bRHU87ipVb.png" width="410"/&gt;&lt;/p&gt;
            &lt;p&gt;&lt;img alt="" height="231" src="./../images/SLDWORKS_OEnv3Dpcwc.png" width="410"/&gt;&lt;/p&gt;
    &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171244.1">   &lt;section&gt;
-             &lt;h1&gt;因為考慮到鋁罐從斜面上滾落時，會直接摔出，所以繼續討論改變的方法。&lt;h1&gt;
+             &lt;h5&gt;因為考慮到鋁罐從斜面上滾落時，會直接摔出，所以繼續討論改變的方法。&lt;h5&gt;
              &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/DJDP8ulrDC0" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;
 </t>
 <t tx="leo.20200818171312.1">   &lt;section&gt;
-            &lt;h1&gt; 第二版-零件圖+組合圖&lt;/h1&gt;
+            &lt;h10&gt; 第二版-零件圖+組合圖&lt;/h10&gt;
             &lt;p&gt;&lt;img alt="" height="177" src="./../images/TjGJLnqzaN.png" width="420"/&gt;&lt;/p&gt;
             &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/xPAWiwpysRA" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
-           &lt;h2&gt; 模擬之後發現有些零件會噴掉，所以把零件和其尺寸稍作調整。&lt;/h2&gt;
+           &lt;h10&gt; 模擬之後發現有些零件會噴掉，所以把零件和其尺寸稍作調整。&lt;/h10&gt;
    &lt;/section&gt;</t>
-<t tx="leo.20200818171344.1">   &lt;section&gt;
-            &lt;h1&gt;最終版&lt;/h1&gt;
+<t tx="leo.20200818171344.1">&lt;section&gt;
+            &lt;h8&gt;最終版&lt;/h8&gt;
             &lt;p&gt;&lt;img alt="" height="236" src="./../images/Inventor_RYiNecteXA.png" width="420"/&gt;&lt;/p&gt;
             &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Ngsruy_0HPQ" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
-   &lt;/section&gt;
+&lt;/section&gt;
 </t>
-<t tx="leo.20200818171412.1">   &lt;section&gt;
+<t tx="leo.20200818171412.1">&lt;section&gt;
             &lt;h1&gt;PDF檔&lt;/h1&gt;
-   &lt;/section&gt;
+&lt;/section&gt;
  
 
 </t>
-<t tx="leo.20200818194721.1">   &lt;section&gt;
+<t tx="leo.20200818194721.1">&lt;section&gt;
             &lt;h1&gt;心得&lt;/h1&gt;
             &lt;h10&gt;40823202&lt;/h10&gt;
             &lt;h10&gt;40823203&lt;/h10&gt;
-   &lt;/section&gt;
+&lt;/section&gt;
             
 
 </t>
-<t tx="leo.20200818194812.1">  &lt;section&gt;
+<t tx="leo.20200818194812.1">&lt;section&gt;
             &lt;h1&gt;END&lt;/h1&gt;
-   &lt;/section&gt;
-
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
