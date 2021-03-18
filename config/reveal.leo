@@ -28,12 +28,13 @@
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20210319005213.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319013722.1"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
 <v t="leo.20200818194721.1"><vh>slide 11</vh></v>
 <v t="leo.20200818194812.1"><vh>slide 13</vh></v>
+<v t="leo.20210319013754.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -215,9 +216,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818171215.1"> &lt;section&gt;
-            &lt;h6&gt;第一版-零件圖&lt;/h6&gt;
+            &lt;h6&gt;第一版-零件圖和組合圖&lt;/h6&gt;
            &lt;p&gt;&lt;img alt="" height="196" src="./../images/pbFyQkx56r.png" width="410"/&gt;&lt;/p&gt;
-           &lt;h6&gt; 第一版-組合圖&lt;/h6&gt;
            &lt;p&gt;&lt;img alt="" height="230" src="./../images/SLDWORKS_bRHU87ipVb.png" width="410"/&gt;&lt;/p&gt;
            &lt;p&gt;&lt;img alt="" height="231" src="./../images/SLDWORKS_OEnv3Dpcwc.png" width="410"/&gt;&lt;/p&gt;
    &lt;/section&gt;
@@ -259,10 +259,11 @@ vertical: body pane on the botton</t>
             &lt;h1&gt;END&lt;/h1&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210319005213.1">   &lt;section&gt;
+<t tx="leo.20210319013722.1">   &lt;section&gt;
              &lt;h10&gt; 模擬之後發現有些零件會噴掉，所以把零件和其尺寸稍作調整。&lt;/h10&gt;
              &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/xPAWiwpysRA" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
    &lt;/section&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210319013754.1"></t>
 </tnodes>
 </leo_file>
