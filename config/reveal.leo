@@ -24,15 +24,16 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
+</v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
+<v t="leo.20200818194721.1"><vh>slide 11</vh>
 <v t="leo.20200818194751.1"><vh>slide 12</vh></v>
+</v>
 <v t="leo.20200818194812.1"><vh>slide 13</vh>
 <v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
 <v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
@@ -208,172 +209,88 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
             &lt;h1&gt;協同產品設計實習 報告&lt;/h1&gt;
-            &lt;h2&gt;stage1-bg14&lt;/h2&gt;
+            &lt;h2&gt;stage1-bg12&lt;/h2&gt;
         &lt;p&gt;&lt;small&gt;成員40823202,40823203&lt;/small&gt; &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
    &lt;section&gt;
-    
-&lt;/section&gt;
-
+            &lt;h2&gt;專題主題-鋁罐壓扁機&lt;/h2&gt;
+            &lt;p&gt;&lt;img alt="" height="236" src="./../images/Inventor_RYiNecteXA.png" width="420"/&gt;&lt;/p&gt;
+   &lt;/section&gt;
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
+<t tx="leo.20200818170909.1">   &lt;section&gt;
+    &lt;h1&gt; 機構原理&lt;/h1&gt;
+    &lt;h2&gt;利用直線運動機構分為精確直線運動機構和近似直線運動機構兩類。其中精確直線運動機構的設計思想主要有兩種：一種是利用幾何中的反演變換，把連杆末端的圓弧路徑反演為直線，用機械反演器可以完成這一功能；另一種則是通過兩個不平行的連杆結構，把路徑限制在兩個平面的交線。近似直線運動機構則是通過多個杆件實現自由度為1的連接，調整杆件的長度使得一點的運動軌跡中包含一段近似直的線段。&lt;h2&gt;
+   &lt;/section&gt;
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-        &lt;/section&gt;
+<t tx="leo.20200818170953.1">   &lt;section&gt;
+    &lt;h1&gt; 動機&lt;/h1&gt;
+    &lt;h2&gt; 在系館7樓垃圾桶有時候會看到沒壓扁的鋁罐很佔垃圾桶的空間，所以我們設計此機構希望可以減少此類麻煩。&lt;h2&gt;
+   &lt;/section&gt;</t>
+<t tx="leo.20200818171010.1">   &lt;section&gt;
+    &lt;h1&gt; 參考影片&lt;/h1&gt;
+   &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/jw6UsSoz3cQ" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/PwG1gSSPr_M" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/ESVuqMCXhUo" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+   &lt;/section&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
+<t tx="leo.20200818171138.1">&lt;section&gt;
+   &lt;section&gt;
+    &lt;h2&gt; 最終成果&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="236" src="./../images/Inventor_RYiNecteXA.png" width="420"/&gt;&lt;/p&gt;
+    &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
+<t tx="leo.20200818171215.1">   &lt;section&gt;
+    &lt;h1&gt; 第一版-零件圖&lt;/h1&gt;
+    &lt;p&gt;&lt;img alt="" height="196" src="./../images/pbFyQkx56r.png" width="410"/&gt;&lt;/p&gt;
+     &lt;h2&gt; 第一版-組合圖&lt;/h2&gt;
+     &lt;p&gt;&lt;img alt="" height="230" src="./../images/SLDWORKS_bRHU87ipVb.png" width="410"/&gt;&lt;/p&gt;
+     &lt;p&gt;&lt;img alt="" height="231" src="./../images/SLDWORKS_OEnv3Dpcwc.png" width="410"/&gt;&lt;/p&gt;
+   &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
+<t tx="leo.20200818171244.1">   &lt;section&gt;
+    &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/DJDP8ulrDC0" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;h1&gt;因為考慮到鋁罐從斜面上滾落時，會直接摔出，所以繼續討論改變的方法。&lt;h1&gt;
+   &lt;/section&gt;
 </t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
+<t tx="leo.20200818171312.1">   &lt;section&gt;
+    &lt;h1&gt; 第二版-零件圖+組合圖&lt;/h1&gt;
+    &lt;p&gt;&lt;img alt="" height="177" src="./../images/TjGJLnqzaN.png" width="420"/&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/xPAWiwpysRA" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;h2&gt; 模擬之後發現有些零件會噴掉，所以把零件和其尺寸稍作調整。&lt;/h2&gt;
+   &lt;/section&gt;</t>
+<t tx="leo.20200818171344.1">   &lt;section&gt;
+   &lt;h2&gt;最終版&lt;/h2&gt;
+   &lt;p&gt;&lt;img alt="" height="236" src="./../images/Inventor_RYiNecteXA.png" width="420"/&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/Ngsruy_0HPQ" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+   &lt;/section&gt;
 </t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
+<t tx="leo.20200818171412.1">   &lt;section&gt;
+   &lt;h2&gt;PDF檔&lt;/h2&gt;
+ 
 
 </t>
 <t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
+   &lt;section&gt;
+            &lt;h2&gt;心得&lt;/h2&gt;
+            &lt;h2&gt;40823202&lt;/h2&gt;
+   &lt;/section&gt;
+            
 
 </t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20200818194751.1">    &lt;section&gt;
+            &lt;h2&gt;心得&lt;/h2&gt;
+            &lt;h2&gt;40823203&lt;/h2&gt;
+   &lt;/section&gt;
+            
 
 </t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
-     @others
+    END
 &lt;/section&gt;
 
 </t>
